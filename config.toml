@@ -1,13 +1,13 @@
 DefaultContentLanguage = "en"
-author = "Steve Francia"
-baseURL = "https://gohugo.io/"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+author = "Severi Hofslagare"
+baseURL = "https://seveloper.dev"
+copyright = "Copyright © 2008–2019, Severi Hofslagare; all rights reserved."
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
-title = "Hugo Themes"
+title = "Seveloper.dev"
 [[menu.main]]
 identifier = "about"
 name = "About"
